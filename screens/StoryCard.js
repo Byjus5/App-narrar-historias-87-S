@@ -119,7 +119,7 @@ export default class StoryCard extends Component {
                       : styles.likeText
                   }
                 >
-                  12k
+                  12m
                 </Text>
               </View>
             </View>
